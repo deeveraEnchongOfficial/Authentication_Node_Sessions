@@ -1,3 +1,3 @@
 {
-  "mongoURI": "mongodb+srv://sweet14344:sweet14344@cluster0.lysd0.mongodb.net/sessions?retryWrites=true&w=majority"
+  "mongoURI": "YOUR MONGODB URI"
 }
